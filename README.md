@@ -1,3 +1,4 @@
 # Acesso-pdf
 
-## Pagina criada para acesso ao arquivo em .pdf para leitura de como 
+## Página criada para acessar o manual de instruções básicas de comnfiguração de APN.
+
